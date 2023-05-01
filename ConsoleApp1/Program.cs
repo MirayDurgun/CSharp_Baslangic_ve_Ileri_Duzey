@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C__Baslangicveileriduzey
+namespace ConsoleApp1
 {
 	internal class Program
 	{
