@@ -6,6 +6,7 @@ namespace Alistirma
 	{
 		static void Main(string[] args)
 		{
+			//yaş hesaplama
 			Console.WriteLine("Merhaba");
 			Console.WriteLine("İsminiz?");
 			string isim = Console.ReadLine();
