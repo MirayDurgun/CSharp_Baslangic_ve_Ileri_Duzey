@@ -17,8 +17,8 @@ namespace Queue1
 			Q1.Enqueue("Üç");
 			Q1.Enqueue("Dört");
 
-			object O1 = Q1.Peek();
-			object O2 = Q1.Dequeue();
+			object O1 = Q1.Peek(); //değeri silmez sadece gösterir, önizleme
+			object O2 = Q1.Dequeue(); //değeri gönderdikten sonra siler
 
 
 		}
