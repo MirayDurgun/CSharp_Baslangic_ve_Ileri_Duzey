@@ -7,26 +7,13 @@ namespace Foreach_Dongusu
 		static void Main(string[] args)
 		{
 			//foreach
-			#region genel kullanım
 			string[] isimler = new[] { "deniz", "miray", "umut", "hasan", "merve", "ali" };
 
 			foreach (string item in isimler)
 			{
 				Console.WriteLine(item);
 			}
-			#endregion
-
-
-			#region ornek
-
-
-
-
-
-			#endregion
-
-
-
 		}
+
 	}
 }
