@@ -241,23 +241,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metot_Matematiksel_islemler
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odevler", "Odevler", "{9B564420-CD6F-4125-874D-2C143193C713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotOdev1", "MetotOdev1\MetotOdev1.csproj", "{ECFBE444-6813-41B5-9DF7-36585D5D0DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotOdev1", "MetotOdev1\MetotOdev1.csproj", "{ECFBE444-6813-41B5-9DF7-36585D5D0DF5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Erisim_Belirleyicileri", "Erisim_Belirleyicileri", "{DAB7914C-AE2E-462E-9CE3-FF4FF6333C94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Public_Private_ErisimBelirleyicisi", "Public_ErisimBelirleyicisi\Public_Private_ErisimBelirleyicisi.csproj", "{9BBE7AA0-0C3C-438C-894A-E8844F468D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Public_Private_ErisimBelirleyicisi", "Public_ErisimBelirleyicisi\Public_Private_ErisimBelirleyicisi.csproj", "{9BBE7AA0-0C3C-438C-894A-E8844F468D25}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parametrelerde_ref_ve_out_kullanimi", "Parametrelerde_ref_ve_out_kullanimi", "{B32E00A6-CDFE-43F7-B5C7-65C8D415E0A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_ve_out", "ref_ve_out\ref_ve_out.csproj", "{1729B4E3-2B6E-442C-ABC0-5833141659E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref_ve_out", "ref_ve_out\ref_ve_out.csproj", "{1729B4E3-2B6E-442C-ABC0-5833141659E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Params", "Params", "{A8AB26D2-A84E-49AA-B86E-8EEF7456542B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params_Kullanimi", "Params_Kullanimi\Params_Kullanimi.csproj", "{82227C74-360B-48A8-BFE6-B310E8711FD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Params_Kullanimi", "Params_Kullanimi\Params_Kullanimi.csproj", "{82227C74-360B-48A8-BFE6-B310E8711FD6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Local_Function", "Local_Function", "{F89B0BA4-B770-4AA5-9119-2D75F9422B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Local_Function", "Local_Function\Local_Function.csproj", "{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Local_Function", "Local_Function\Local_Function.csproj", "{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP-Siniflar", "OOP-Siniflar", "{C6413E9A-0F69-4998-855C-23D50C2E4257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siniflar", "siniflar\siniflar.csproj", "{CD1596D5-75F7-41F5-B087-6CF700B197E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor_Yapici_metot", "Constructor_Yapici_metot\Constructor_Yapici_metot.csproj", "{0167A985-F660-4BDE-A813-4CF319E4C512}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -549,6 +555,14 @@ Global
 		{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1596D5-75F7-41F5-B087-6CF700B197E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1596D5-75F7-41F5-B087-6CF700B197E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1596D5-75F7-41F5-B087-6CF700B197E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1596D5-75F7-41F5-B087-6CF700B197E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0167A985-F660-4BDE-A813-4CF319E4C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0167A985-F660-4BDE-A813-4CF319E4C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0167A985-F660-4BDE-A813-4CF319E4C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0167A985-F660-4BDE-A813-4CF319E4C512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -675,6 +689,8 @@ Global
 		{82227C74-360B-48A8-BFE6-B310E8711FD6} = {A8AB26D2-A84E-49AA-B86E-8EEF7456542B}
 		{F89B0BA4-B770-4AA5-9119-2D75F9422B9E} = {C8CBDB51-4DDC-4AD5-872F-5625B1AD9B20}
 		{ECBE0322-7B98-4CC0-A872-409E5FB8E4B1} = {F89B0BA4-B770-4AA5-9119-2D75F9422B9E}
+		{CD1596D5-75F7-41F5-B087-6CF700B197E8} = {C6413E9A-0F69-4998-855C-23D50C2E4257}
+		{0167A985-F660-4BDE-A813-4CF319E4C512} = {C6413E9A-0F69-4998-855C-23D50C2E4257}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E444480A-E709-4659-987F-B136A9868B48}
