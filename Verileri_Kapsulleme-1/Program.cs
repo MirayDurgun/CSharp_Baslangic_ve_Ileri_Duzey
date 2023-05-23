@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Intrinsics.X86;
 
 namespace Verileri_Kapsulleme_1
 {
@@ -20,7 +21,11 @@ namespace Verileri_Kapsulleme_1
 			*değer atansın ama okunamasın
 			* diğer bir seçenekte
 			*field içine değer ataması yapılsın ve sadece 
-			*değerin ilk 4 hanesi okunsun*/
+			*değerin ilk 3 hanesi okunsun*/
+			//ornek 1  field içine değer ataması yapılamasın ama değer okunabilsin
+
+			m1.EmailAdres = "Miray@gmail.com";
+
 
 		}
 	}
