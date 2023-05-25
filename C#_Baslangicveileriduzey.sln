@@ -283,11 +283,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verileri_Kapsulleme-3", "Ve
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP-Static", "OOP-Static", "{A74DD7BA-B00D-445F-A7E0-6AFA96AE4204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Nedir", "Static_Nedir\Static_Nedir.csproj", "{A08177C1-2E09-4E13-9BE7-DB9A202A6A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Nedir", "Static_Nedir\Static_Nedir.csproj", "{A08177C1-2E09-4E13-9BE7-DB9A202A6A60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Field_Kullanim", "Static_Field_Kullanim\Static_Field_Kullanim.csproj", "{B145F670-B95E-4E4C-99B1-31A15A297601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Field_Kullanim", "Static_Field_Kullanim\Static_Field_Kullanim.csproj", "{B145F670-B95E-4E4C-99B1-31A15A297601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static&Standart_Metot_davranis_farki", "Static&Standart_davranis_farki\Static&Standart_Metot_davranis_farki.csproj", "{B208C3CE-502C-4810-A073-5D484ABF25C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static&Standart_Metot_davranis_farki", "Static&Standart_davranis_farki\Static&Standart_Metot_davranis_farki.csproj", "{B208C3CE-502C-4810-A073-5D484ABF25C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev", "Odev", "{AE57D8C4-71F9-4A65-8EE7-B12D946186E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Odev", "Static_Odev\Static_Odev.csproj", "{35A97168-E6F9-4642-B38B-B7A4D43CEC99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -623,6 +627,10 @@ Global
 		{B208C3CE-502C-4810-A073-5D484ABF25C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B208C3CE-502C-4810-A073-5D484ABF25C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B208C3CE-502C-4810-A073-5D484ABF25C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A97168-E6F9-4642-B38B-B7A4D43CEC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A97168-E6F9-4642-B38B-B7A4D43CEC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A97168-E6F9-4642-B38B-B7A4D43CEC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A97168-E6F9-4642-B38B-B7A4D43CEC99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -761,6 +769,8 @@ Global
 		{A08177C1-2E09-4E13-9BE7-DB9A202A6A60} = {A74DD7BA-B00D-445F-A7E0-6AFA96AE4204}
 		{B145F670-B95E-4E4C-99B1-31A15A297601} = {A74DD7BA-B00D-445F-A7E0-6AFA96AE4204}
 		{B208C3CE-502C-4810-A073-5D484ABF25C8} = {A74DD7BA-B00D-445F-A7E0-6AFA96AE4204}
+		{AE57D8C4-71F9-4A65-8EE7-B12D946186E5} = {A74DD7BA-B00D-445F-A7E0-6AFA96AE4204}
+		{35A97168-E6F9-4642-B38B-B7A4D43CEC99} = {AE57D8C4-71F9-4A65-8EE7-B12D946186E5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E444480A-E709-4659-987F-B136A9868B48}
