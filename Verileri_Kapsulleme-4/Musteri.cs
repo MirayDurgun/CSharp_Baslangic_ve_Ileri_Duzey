@@ -16,7 +16,7 @@ namespace Verileri_Kapsulleme_4
 			set
 			{
 				this._soyisim = value;
-				this.email = string.Format("{0}.{1}@hotmail.com",isim,_soyisim);
+				this.email = string.Format("{0}.{1}@hotmail.com", isim, _soyisim);
 			}
 		}
 		private string email;
