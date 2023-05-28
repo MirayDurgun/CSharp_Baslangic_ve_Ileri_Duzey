@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using InnerType_Modelleme_1;
+using InnerType_Modelleme;
 
-namespace NetFramework.S11.D1.InnerTypeModelleme
+namespace InnerType_Modelleme
 {
 	class Program
 	{

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InnerType_Modelleme_1
+namespace InnerType_Modelleme
 {
 	public class MusteriSiparisBilgisi
 	{
@@ -18,9 +18,9 @@ namespace InnerType_Modelleme_1
 		}
 
 		public Urun[] urunListe;
-        public MusteriSiparisBilgisi()
-        {
+		public MusteriSiparisBilgisi()
+		{
 			urunListe = new Urun[5];
-        }
-    }
+		}
+	}
 }

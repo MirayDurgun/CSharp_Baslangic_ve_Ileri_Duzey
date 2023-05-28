@@ -6,9 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-using NetFramework.S12.D1.KalitimNedir;
+using Kalitim_NesneModelleme;
 
-namespace NetFramework.S12.D1.KalitimNedir
+namespace Kalitim_NesneModelleme
 {
 	class Program
 	{
@@ -74,6 +74,7 @@ namespace NetFramework.S12.D1.KalitimNedir
 
 			Obj1 = Per1;  //boxing
 			Per1 = (Personel)Obj1;  //unboxing
+
 
 
 			#endregion

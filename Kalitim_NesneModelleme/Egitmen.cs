@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetFramework.S12.D1.KalitimNedir
+namespace Kalitim_NesneModelleme
 {
 	public sealed class Egitmen : Personel
 	{

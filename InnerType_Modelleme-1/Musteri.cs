@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InnerType_Modelleme_1
+namespace InnerType_Modelleme
 {
 	public class Musteri
 	{
