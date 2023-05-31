@@ -12,7 +12,7 @@ namespace ArrayList_kolaeksiyon
 			 Diziler sabit uzunluktadır. 
 			Tanımlandıktan sonra değer atama, 
 			çıkarma işlemleri yapılamaz. 
-			ArrayList'te ise böyle bir ksıtlama yoktur.
+			ArrayList'te ise böyle bir kısıtlama yoktur.
 			*/
 			int Capacity = 0;
 			int Count = 0;
